@@ -1,1 +1,2 @@
 # odin-recipes
+I have learned basic html setup, relative/absolute links, moving around the command line, setting up repositories. I have learned not to make changes on github directly beacuse I compeletely screwed myself. I have learned that for some reason my links wouldn't work and hopefully i will figure this out this time around since i decided to delete and start over. 
